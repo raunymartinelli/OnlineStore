@@ -22,3 +22,4 @@ o	Create an expense tracker application that allows users to enter expenses per 
 o	The user should be able to see their total expenses for a month of their choice for each category and a total monthly expense. 
 o	The monthly expense report should include average expenses for each category for the year and indicate if the user expense for the month selected is lower or higher than the annual average. Also, the report should display the percentage of expenses from each category out of the total monthly expenses. 
 
+Python: Import into PyCharm and run main function.
